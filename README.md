@@ -1,2 +1,2 @@
 # essence-robot
-no word is all words
+this is myfirst project on the internet
